@@ -6,6 +6,9 @@
 <title>ねこのスヤァ | ねこと のんびり くらす いやし育成ゲーム(iOS)</title>
 <meta name="description" content="なでて、あそんで、きせかえて。ちいさな ねこと のんびり くらす、かわいい育成ゲーム『ねこのスヤァ』。パズルやつりで にゃんコインをあつめて、きせかえや もようがえ。広告なし・登録不要・4+。App Storeで無料配信中。">
 <link rel="canonical" href="https://abros-dev.github.io/nekonosuya-legal/">
+<!-- Google Search Console の「HTMLタグ」で所有権確認する場合は、発行された下のようなタグをこの行の下に貼り付ける
+<meta name="google-site-verification" content="ここに発行されたコード"> -->
+
 <link rel="icon" href="./img/icon-192.png">
 <link rel="apple-touch-icon" href="./img/icon-192.png">
 
@@ -157,6 +160,14 @@
   .gallery img{border:3px solid var(--ink);border-radius:14px}
   .gallery figcaption{text-align:center;font-size:13px;font-weight:700;color:var(--brown);margin-top:6px}
 
+  /* もっとくわしく */
+  .more-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px}
+  .more-grid a{display:block;background:var(--paper);border:3px solid var(--ink);border-radius:14px;
+    padding:14px 16px;text-decoration:none;color:var(--ink);font-weight:900;
+    box-shadow:4px 4px 0 var(--pink-pale);transition:transform .12s}
+  .more-grid a:hover{transform:translateY(-2px)}
+  .more-grid a small{display:block;font-weight:700;font-size:12.5px;color:var(--brown);margin-top:2px}
+
   /* FAQ */
   .faq details{background:var(--paper);border:3px solid var(--ink);border-radius:12px;margin-bottom:14px;
     padding:0 18px}
@@ -218,6 +229,7 @@
       <div class="txt">
         <h3>きせかえで <span class="em">じぶんだけの ねこ</span>に</h3>
         <p>ぼうし・ふく・アイテムを かさねづけ。あつめた にゃんコインで、すこしずつ おしゃれが ふえていきます。ハロウィンや クリスマスには、きせつ げんていの アイテムも。</p>
+        <p style="margin-top:8px;font-weight:700;font-size:14px"><a href="./kisekae.html">→ きせかえ・もようがえを くわしく</a></p>
       </div>
       <figure class="game-frame"><a href="./img/kisekae.png" target="_blank" rel="noopener"><img src="./img/kisekae.png" width="640" height="1385" alt="きせかえ画面: 帽子・服・アイテムを選んで猫に着せられる" loading="lazy"></a><figcaption>タップで かくだい</figcaption></figure>
     </div>
@@ -226,6 +238,7 @@
       <div class="txt">
         <h3>あたまの たいそう <span class="em">ねこパズル</span></h3>
         <p>ねこを スワイプで すべらせて、ゴールまで みちびく そうこパズル。まいにち あたらしいコースが とどくから、あきずに コツコツ。クリアで にゃんコインが もらえます。</p>
+        <p style="margin-top:8px;font-weight:700;font-size:14px"><a href="./puzzle.html">→ ねこパズルを くわしく</a></p>
       </div>
       <figure class="game-frame"><a href="./img/puzzle.png" target="_blank" rel="noopener"><img src="./img/puzzle.png" width="640" height="1385" alt="パズル画面: 猫をスワイプで動かしてゴールを目指す倉庫パズル" loading="lazy"></a><figcaption>タップで かくだい</figcaption></figure>
     </div>
@@ -234,6 +247,7 @@
       <div class="txt">
         <h3>のんびり つりで <span class="em">ずかんを コンプリート</span></h3>
         <p>うきが しずんだら「あわせる!」。つった さかなは ずかんに きろくされます。おおものの「ぬし」は、にゃんコインを おとすことも…?</p>
+        <p style="margin-top:8px;font-weight:700;font-size:14px"><a href="./fishing.html">→ のんびり つりを くわしく</a></p>
       </div>
       <figure class="game-frame"><a href="./img/fishing.png" target="_blank" rel="noopener"><img src="./img/fishing.png" width="640" height="1385" alt="つり画面: タイミングよくタップして魚を釣る。釣れた魚はずかんに記録される" loading="lazy"></a><figcaption>タップで かくだい</figcaption></figure>
     </div>
@@ -274,6 +288,19 @@
     </div>
   </section>
 
+  <section id="more" aria-label="もっとくわしく">
+    <div class="sec-head">
+      <h2>もっと くわしく</h2>
+      <p>あそびごとの しょうかいページ</p>
+    </div>
+    <div class="more-grid">
+      <a href="./cats.html"><span>ねこたち しょうかい</span><small>6しゅるいの ねこと なかま同居</small></a>
+      <a href="./kisekae.html"><span>きせかえ・もようがえ</span><small>ねこも おへやも じぶんごのみに</small></a>
+      <a href="./puzzle.html"><span>ねこパズル</span><small>まいにち あたらしい そうこパズル</small></a>
+      <a href="./fishing.html"><span>のんびり つり</span><small>ずかんと おおものの「ぬし」</small></a>
+    </div>
+  </section>
+
   <section id="faq" class="faq" aria-label="よくあるしつもん">
     <div class="sec-head">
       <h2>よくある しつもん</h2>
@@ -308,7 +335,13 @@
 </div>
 
 <footer>
-  <nav aria-label="関連ページ">
+  <nav aria-label="サイト内のページ">
+    <a href="./cats.html">ねこたち</a>
+    <a href="./kisekae.html">きせかえ・もようがえ</a>
+    <a href="./puzzle.html">パズル</a>
+    <a href="./fishing.html">つり</a>
+  </nav>
+  <nav aria-label="規約と連絡先" style="margin-top:6px">
     <a href="./terms.html">利用規約</a>
     <a href="./privacy.html">プライバシーポリシー</a>
     <a href="mailto:dev.abros.com@gmail.com">おといあわせ</a>
