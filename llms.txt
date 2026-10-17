@@ -13,7 +13,9 @@
 - アカウント登録: 不要
 - セーブ: 端末とクラウドの両方に保存
 - App Store: https://apps.apple.com/jp/app/id6809086753
-- 開発・運営: Abros(個人開発)
+- 開発・運営: Abros(エーブロス)。小学生の企画担当とおとなの開発担当によるちいさなチーム(個人開発)
+- TikTok: https://www.tiktok.com/@nekonosuya_app
+- Instagram: https://www.instagram.com/nekonosuya_app/
 - お問い合わせ: dev.abros.com@gmail.com
 
 ## 主なあそび
@@ -31,5 +33,8 @@
 - [きせかえ・もようがえ](https://nekonosuya.com/kisekae.html): きせかえとおへやエディタの紹介
 - [ねこパズル](https://nekonosuya.com/puzzle.html): 毎日とどく倉庫パズルの紹介
 - [のんびり つり](https://nekonosuya.com/fishing.html): つり・ずかん・ぬしの紹介
+- [猫育成ゲームガイド](https://nekonosuya.com/neko-ikusei-game.html): 猫育成ゲームのタイプ別の特徴と選び方の解説記事
+- [おしらせ](https://nekonosuya.com/news.html): アップデート履歴
+- [うんえいしゃ じょうほう](https://nekonosuya.com/about.html): 運営チームの紹介
 - [利用規約](https://nekonosuya.com/terms.html)
 - [プライバシーポリシー](https://nekonosuya.com/privacy.html)

@@ -2,8 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nekonosuya.com/</loc>
-    <lastmod>2026-10-04</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://nekonosuya.com/neko-ikusei-game.html</loc>
+    <lastmod>2026-10-17</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://nekonosuya.com/cats.html</loc>
@@ -26,13 +31,23 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nekonosuya.com/news.html</loc>
+    <lastmod>2026-10-17</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nekonosuya.com/about.html</loc>
+    <lastmod>2026-10-17</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://nekonosuya.com/terms.html</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://nekonosuya.com/privacy.html</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <priority>0.3</priority>
   </url>
 </urlset>
