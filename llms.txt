@@ -37,6 +37,7 @@
 - [猫のパズルゲームガイド](https://nekonosuya.com/neko-puzzle-game.html): 猫パズルの種類別の特徴と倉庫番パズルの解き方のコツ
 - [広告なしの猫ゲームという選択肢](https://nekonosuya.com/neko-game-no-ads.html): 無料ゲームに広告が多い理由と広告なしゲームの見分け方
 - [子どもと一緒に遊べる猫アプリの選び方](https://nekonosuya.com/neko-app-kodomo.html): 年齢表記・広告・課金の3チェックとスクリーンタイム設定
+- [「スヤァ」とは?意味・由来と寝姿からわかる猫の気持ち](https://nekonosuya.com/neko-suya.html): ネット語「スヤァ」の解説と猫の眠り・寝姿の基礎知識
 - [おしらせ](https://nekonosuya.com/news.html): アップデート履歴
 - [うんえいしゃ じょうほう](https://nekonosuya.com/about.html): 運営チームの紹介
 - [利用規約](https://nekonosuya.com/terms.html)
