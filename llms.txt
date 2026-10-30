@@ -25,6 +25,7 @@
 - おへやエディタ: 壁・床・ラグ・窓・絵・照明を選んでもようがえ
 - ねこパズル: 猫をスワイプで滑らせてゴールへ導く倉庫パズル。毎日新しいコースが届く
 - のんびりつり: 釣った魚はずかんに記録。大物の「ぬし」も登場
+- きせつのパネル: ハロウィンやクリスマスなど季節の絵に猫がすっぽり入った1枚がつくれる。スクショを撮ればスマホの壁紙にできる(アプリはカメラ・写真の権限を使わない)
 
 ## ページ
 
@@ -33,11 +34,13 @@
 - [きせかえ・もようがえ](https://nekonosuya.com/kisekae.html): きせかえとおへやエディタの紹介
 - [ねこパズル](https://nekonosuya.com/puzzle.html): 毎日とどく倉庫パズルの紹介
 - [のんびり つり](https://nekonosuya.com/fishing.html): つり・ずかん・ぬしの紹介
+- [きせつのパネル](https://nekonosuya.com/panel.html): 季節の絵と猫でスマホ壁紙がつくれるパネル機能の紹介
 - [猫育成ゲームガイド](https://nekonosuya.com/neko-ikusei-game.html): 猫育成ゲームのタイプ別の特徴と選び方の解説記事
 - [猫のパズルゲームガイド](https://nekonosuya.com/neko-puzzle-game.html): 猫パズルの種類別の特徴と倉庫番パズルの解き方のコツ
 - [広告なしの猫ゲームという選択肢](https://nekonosuya.com/neko-game-no-ads.html): 無料ゲームに広告が多い理由と広告なしゲームの見分け方
 - [子どもと一緒に遊べる猫アプリの選び方](https://nekonosuya.com/neko-app-kodomo.html): 年齢表記・広告・課金の3チェックとスクリーンタイム設定
 - [「スヤァ」とは?意味・由来と寝姿からわかる猫の気持ち](https://nekonosuya.com/neko-suya.html): ネット語「スヤァ」の解説と猫の眠り・寝姿の基礎知識
+- [猫育成アプリが「怖い」と不安なときに読む記事](https://nekonosuya.com/neko-ikusei-kowai.html): 「怖い」の正体4つと安心なゲームの見分け方
 - [おしらせ](https://nekonosuya.com/news.html): アップデート履歴
 - [うんえいしゃ じょうほう](https://nekonosuya.com/about.html): 運営チームの紹介
 - [利用規約](https://nekonosuya.com/terms.html)

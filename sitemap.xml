@@ -2,32 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nekonosuya.com/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://nekonosuya.com/neko-ikusei-game.html</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://nekonosuya.com/neko-puzzle-game.html</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://nekonosuya.com/neko-suya.html</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nekonosuya.com/neko-ikusei-kowai.html</loc>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nekonosuya.com/neko-game-no-ads.html</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nekonosuya.com/neko-app-kodomo.html</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -37,7 +42,12 @@
   </url>
   <url>
     <loc>https://nekonosuya.com/kisekae.html</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-31</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nekonosuya.com/panel.html</loc>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -52,7 +62,7 @@
   </url>
   <url>
     <loc>https://nekonosuya.com/news.html</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
