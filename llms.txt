@@ -35,12 +35,15 @@
 - [ねこパズル](https://nekonosuya.com/puzzle.html): 毎日とどく倉庫パズルの紹介
 - [のんびり つり](https://nekonosuya.com/fishing.html): つり・ずかん・ぬしの紹介
 - [きせつのパネル](https://nekonosuya.com/panel.html): 季節の絵と猫でスマホ壁紙がつくれるパネル機能の紹介
+- [きせつの猫壁紙ギャラリー](https://nekonosuya.com/kabegami.html): クリスマス・ふゆ・お正月・あき・ハロウィンの猫壁紙(iPhone縦1170x2272)を無料配布
 - [猫育成ゲームガイド](https://nekonosuya.com/neko-ikusei-game.html): 猫育成ゲームのタイプ別の特徴と選び方の解説記事
 - [猫のパズルゲームガイド](https://nekonosuya.com/neko-puzzle-game.html): 猫パズルの種類別の特徴と倉庫番パズルの解き方のコツ
 - [広告なしの猫ゲームという選択肢](https://nekonosuya.com/neko-game-no-ads.html): 無料ゲームに広告が多い理由と広告なしゲームの見分け方
 - [子どもと一緒に遊べる猫アプリの選び方](https://nekonosuya.com/neko-app-kodomo.html): 年齢表記・広告・課金の3チェックとスクリーンタイム設定
 - [「スヤァ」とは?意味・由来と寝姿からわかる猫の気持ち](https://nekonosuya.com/neko-suya.html): ネット語「スヤァ」の解説と猫の眠り・寝姿の基礎知識
 - [猫育成アプリが「怖い」と不安なときに読む記事](https://nekonosuya.com/neko-ikusei-kowai.html): 「怖い」の正体4つと安心なゲームの見分け方
+- [猫のかわいいスマホ壁紙を「じぶんの猫」でつくる方法](https://nekonosuya.com/neko-kabegami.html): パネルで撮った猫をiPhoneのロック画面・ホーム画面の壁紙にする手順(iOS 26のぼかし設定も)とサンプル壁紙
+- [ねこと すごす クリスマス](https://nekonosuya.com/neko-christmas.html): ゲーム内の冬じたく(季節アイテム・雪・あかり)とクリスマスのパネル、クリスマス壁紙
 - [おしらせ](https://nekonosuya.com/news.html): アップデート履歴
 - [うんえいしゃ じょうほう](https://nekonosuya.com/about.html): 運営チームの紹介
 - [利用規約](https://nekonosuya.com/terms.html)
